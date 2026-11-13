@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Devansh Kaushik
 
-<!--
-**devanshkaushik610/devanshkaushik610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year B.Tech Computer Science and Engineering student at Lovely Professional University (LPU), building a foundation in programming and software development.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I am learning programming fundamentals, problem-solving, Git and core computer science concepts.
+- My career goal is to become a software engineer at Oracle India.
+- I am interested in building useful applications and learning how software is designed, tested and maintained.
+- I value steady learning, clear documentation and honest progress.
+
+## What I'm learning
+
+- Python and programming fundamentals
+- Data structures and algorithms
+- Git and GitHub
+- SQL and databases
+- Object-oriented programming
+
+## Projects
+
+These are learning projects I plan to build. I will add repository links and update their status when the work is available.
+
+- **Student Task and Deadline Tracker** — Planned. A beginner project for organising assignments, due dates and priorities.
+- **Student Expense Manager** — Planned. A later project to practise SQL, databases and basic application design using fictional sample data only.
+
+## Find me
+
+- LinkedIn: https://www.linkedin.com/in/devansh-kaushik-67857044b/
+- GitHub: https://github.com/devanshkaushik610
+
+I will add skills, courses and project links here as I complete them.
