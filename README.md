@@ -1,32 +1,23 @@
-# Hi, I'm Devansh Kaushik
+<h1 align="center">Hi 👋, I'm devansh kaushik</h1>
+<h3 align="center">A Student of CSE at LPU</h3>
 
-First-year B.Tech Computer Science and Engineering student at Lovely Professional University (LPU), building a foundation in programming and software development.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshkaushik610&label=Profile%20views&color=0e75b6&style=flat" alt="devanshkaushik610" /> </p>
 
-## About me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshkaushik610" alt="devanshkaushik610" /></a> </p>
 
-- I am learning programming fundamentals, problem-solving, Git and core computer science concepts.
-- My career goal is to become a software engineer at Oracle India.
-- I am interested in building useful applications and learning how software is designed, tested and maintained.
-- I value steady learning, clear documentation and honest progress.
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## What I'm learning
+- 🔭 I’m currently working on **myself**
 
-- Python and programming fundamentals
-- Data structures and algorithms
-- Git and GitHub
-- SQL and databases
-- Object-oriented programming
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-## Projects
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-These are learning projects I plan to build. I will add repository links and update their status when the work is available.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devanshkaushik610&show_icons=true&locale=en&layout=compact" alt="devanshkaushik610" /></p>
 
-- **Student Task and Deadline Tracker** — Planned. A beginner project for organising assignments, due dates and priorities.
-- **Student Expense Manager** — Planned. A later project to practise SQL, databases and basic application design using fictional sample data only.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshkaushik610&show_icons=true&locale=en" alt="devanshkaushik610" /></p>
 
-## Find me
-
-- LinkedIn: https://www.linkedin.com/in/devansh-kaushik-67857044b/
-- GitHub: https://github.com/devanshkaushik610
-
-I will add skills, courses and project links here as I complete them.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshkaushik610&" alt="devanshkaushik610" /></p>
